@@ -1,0 +1,94 @@
+body{
+	background-color:#212121;
+	color:#ffc619;
+	font-family:Rockwell;
+	}
+	
+.login{
+	position:absolute;
+	right:10px;
+	}
+
+.menu {
+  margin:auto;
+  width:33%;
+  border-width:20px;
+  padding:15px;
+}
+
+.logo{
+	position:absolute;
+	left:35px;
+	height:160px;
+	width:160px;
+}
+
+.breakLine{
+	color:#ffc619;
+}
+
+.name{
+	text-align:center;
+	font-size:60;
+}
+
+.description{
+	text-align:center;
+	font-size:30;
+}
+
+.bullets{
+	position:absolute;
+	right:250px;
+	font-size:24;
+}
+
+.footer{
+	position:absolute;
+	bottom:10px;
+	color:#ffffff;
+}
+
+.Games a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Games:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.MyCollection a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.MyCollection:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.Community a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Community:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.Settings a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Settings:hover{
+  background-color:#fead00;
+  color:black;
+}
