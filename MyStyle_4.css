@@ -1,0 +1,90 @@
+body{
+	background-color:#212121;
+	color:#ffc619;
+	font-family:Rockwell;
+	}
+
+.menu {
+  margin:auto;
+  width:33%;
+  border-width:20px;
+  padding:15px;
+}
+
+.logo{
+	position:absolute;
+	left:35px;
+	height:160px;
+	width:160px;
+}
+
+.userIcon{
+	position:absolute;
+	right:130px;
+	height:100px;
+	width:100px;
+	border-width:4px;
+	border-color:#ffc619;
+}
+
+.bell{
+	position:absolute;
+	right:235px;
+	height:60px;
+	width:60px;
+}
+
+.addPost{
+	margin:auto;
+	width:9%;
+}
+
+.forum{
+	margin:auto;
+	width:50%;
+	
+}
+
+.Games a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Games:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.MyCollection a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.MyCollection:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.Community a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Community:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.Settings a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Settings:hover{
+  background-color:#fead00;
+  color:black;
+}

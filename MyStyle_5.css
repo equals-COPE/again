@@ -1,0 +1,137 @@
+body{
+	background-color:#212121;
+	color:#ffc619;
+	font-family:Rockwell;
+	}
+
+.menu {
+  margin:auto;
+  width:33%;
+  border-width:20px;
+  padding:15px;
+}
+
+.logo{
+	position:absolute;
+	left:35px;
+	height:160px;
+	width:160px;
+}
+
+.userIcon{
+	position:absolute;
+	right:130px;
+	height:100px;
+	width:100px;
+	border-width:4px;
+	border-color:#ffc619;
+}
+
+.bell{
+	position:absolute;
+	right:235px;
+	height:60px;
+	width:60px;
+}
+
+.pfp{
+	position:absolute;
+	left:235px;
+	height:100px;
+	width:100px;
+	border-width:4px;
+	border-color:#ffc619;
+}
+
+.configurations{
+	position:absolute;
+	left:180px
+}
+
+.profilepicture{
+	position:absolute;
+	left:450px;
+	height:150px;
+	width:150px;
+	border-color:#ffc619;
+	border-width:4px
+}
+
+.change{
+	position:absolute;
+	left:615px;
+}
+
+.addRemove{
+	position:absolute;
+	right:400px;
+	top:330px;
+}
+
+.favorites{
+	position:absolute;
+	right:450px;
+	bottom:150px;
+	font-size:50px;
+}
+
+.username{
+	position:absolute;
+	left:450px;
+	top:470px;	
+	height:40px;
+	width:250px;
+	background-color:#000000;
+}
+
+.description{
+	position:absolute;
+	left:450px;
+	top:570px;
+	height:155px;
+	width:640px;
+	background-color:#000000;
+}
+
+.Games a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Games:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.MyCollection a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.MyCollection:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.Community a{
+  text-decoration: none;
+  color: inherit; 
+  display: block; 
+}
+
+.Community:hover{
+  background-color:#fead00;
+  color:black;
+}
+
+.Settings a{
+  text-decoration: none;
+  color: inherit;  
+}
+
+.Settings:hover{
+  background-color:#fead00;
+  color:black;
+}
